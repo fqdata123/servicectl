@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 # Control services for system based on Systemd inside chroot and SysVinit outside chroot
 # https://github.com/smaknsk/servicectl
 #
